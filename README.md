@@ -43,7 +43,7 @@
 
 ## 🚀 Download & Usage
 
-1. Head over to the [Official V1.0.0 Release Page](https://github.com).
+1. Head over to the [Official V1.0.0 Release Page](https://github.com/Amcos-Windows/MacOS-Terminal-For-Windows/releases/tag/V1.0.0).
 2. Download **`MacTerminal.exe`** from the Assets section.
 3. Double-click the file to open it right up.
 4. *Tip:* Right-click the app icon on your taskbar and hit **"Pin to taskbar"** so your new custom workspace environment is always one click away.
